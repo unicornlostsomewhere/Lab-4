@@ -1,0 +1,3 @@
+Fish: Goldfish - $15
+Fish: Clownfish - $20
+Bird: Parrot - $50
